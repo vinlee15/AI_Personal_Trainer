@@ -55,12 +55,17 @@
   - Nhấn phím q trên bàn phím để thoát ứng dụng.
 
 ## Hình ảnh thực tế 📸
+
+Đây là kết quả sau khi tôi đã thử nghiệm tất cả các chức năng của trò chơi. Video đầy đủ:(https://drive.google.com/drive/folders/1GdF0oksnfjWFIbAAlIHTu1C6W1SIQHqK)
   - Chế độ Bicep Curl:
 
+![](assets/curl.gif)
   - Chế độ Squat:
 
+![](assets/squat.gif)
   - Chế độ Push-up:
 
+![](assets/push_up.gif)
 ## Hướng phát triển trong tương lai 🚧
 - **Áp dụng Supervised Learning (Học có giám sát) để phân tích kỹ thuật**: 
   - Thay vì sử dụng các ngưỡng góc cố định, dự án sẽ tiến tới việc thu thập dữ liệu (video động tác tập đúng và sai).
