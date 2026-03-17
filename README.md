@@ -9,7 +9,7 @@
 - **Phản hồi trực quan (UI)**: Bảng thông tin hiển thị rõ ràng số nhịp (REPS) và trạng thái hiện tại (STAGE).
 - **Cảnh báo sai tư thế**: Tự động nhận diện và đổi màu cảnh báo nếu người dùng tập sai kỹ thuật (ví dụ: nâng hông quá cao khi hít đất).
 
-### Các chế độ bài tập (Game Modes):
+### Các chế độ bài tập (Modes):
 1. **Bicep Curl (Gập tay)**:
    - Theo dõi góc khuỷu tay để xác định trạng thái nâng/hạ tạ.
    - Đếm số nhịp chính xác dựa trên biên độ co duỗi.
