@@ -74,7 +74,7 @@
 
 - Thêm các bài tập như Deadlift, Pull-up, hoặc Jumping Jacks.
 
-- Lưu lại lịch sử tập luyện và thống kê tiến độ của người dùng.
+- Tích hợp giao diện Menu đồ họa (GUI) để chọn bài tập trực tiếp trên màn hình thay vì nhập qua Terminal.
 
 - Thêm âm thanh thông báo (ví dụ: tiếng "Bíp" khi đếm được 1 rep hoặc cảnh báo bằng giọng nói khi sai tư thế).
  
