@@ -56,7 +56,7 @@
 
 ## Hình ảnh thực tế 📸
 
-Đây là kết quả sau khi tôi đã thử nghiệm tất cả các chức năng của trò chơi. Video đầy đủ:(https://drive.google.com/drive/folders/1GdF0oksnfjWFIbAAlIHTu1C6W1SIQHqK)
+Đây là kết quả sau khi tôi đã thử nghiệm tất cả các chức năng.
   - Chế độ Bicep Curl:
 
 ![](assets/curl.gif)
