@@ -2,9 +2,6 @@ import cv2
 import numpy as np
 
 def draw_info_panel(image, mode, counter, stage):
-    """
-    Vẽ bảng thông tin đếm số và trạng thái lên ảnh
-    """
     h, w, c = image.shape
 
     # Vẽ khung hình chữ nhật
