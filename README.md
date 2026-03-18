@@ -1,6 +1,6 @@
 # AI Personal Trainer 🏋️‍♂️
 
-**AI Personal Trainer** là một ứng dụng hỗ trợ tập luyện thể thao được xây dựng bằng **Python**, **OpenCV**, và **MediaPipe**. Dự án này sử dụng công nghệ nhận diện tư thế (Pose Estimation) thông qua 33 điểm mốc trên cơ thể để phân tích chuyển động, đếm số nhịp tập và cung cấp phản hồi trực quan theo thời gian thực.
+**AI Personal Trainer** hỗ trợ tập luyện thể thao được xây dựng bằng **Python**, **OpenCV**, và **MediaPipe**. Dự án này sử dụng công nghệ nhận diện tư thế (Pose Estimation) thông qua 33 điểm mốc trên cơ thể để phân tích chuyển động, đếm số nhịp tập và cung cấp phản hồi trực quan theo thời gian thực.
 
 ## Tính năng nổi bật 🌟
 
