@@ -70,7 +70,7 @@
 - **Áp dụng Supervised Learning (Học có giám sát) để phân tích kỹ thuật**: 
   - Thay vì sử dụng các ngưỡng góc cố định, dự án sẽ tiến tới việc thu thập dữ liệu (video động tác tập đúng và sai).
   - Tiến hành gán nhãn dữ liệu và trích xuất đặc trưng từ tọa độ 33 điểm mốc của MediaPipe.
-  - Huấn luyện các mô hình máy học (như SVM, Random Forest, hoặc Mạng nơ-ron nhân tạo) để hệ thống tự động phân loại, nhận diện và chỉ ra chính xác lỗi sai của người tập theo thời gian thực.
+  - Huấn luyện các mô hình máy học để hệ thống tự động phân loại, nhận diện và chỉ ra chính xác lỗi sai của người tập theo thời gian thực.
 
 - Thêm các bài tập như Deadlift, Pull-up, hoặc Jumping Jacks.
 
